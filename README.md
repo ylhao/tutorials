@@ -1,3 +1,5 @@
 # tutorials
 
 - numpy
+- matplotlib
+
